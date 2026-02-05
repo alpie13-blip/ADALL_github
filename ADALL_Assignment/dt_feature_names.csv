@@ -1,0 +1,13 @@
+feature
+num__fixed acidity
+num__volatile acidity
+num__citric acid
+num__residual sugar
+num__chlorides
+num__total sulfur dioxide
+num__density
+num__pH
+num__sulphates
+num__alcohol
+cat__type_red
+cat__type_white
